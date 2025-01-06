@@ -1,0 +1,26 @@
+{
+  "name": "socketio-demo-game",
+  "version": "1.0.0",
+  "description": "messing around with socketio making a demo of a real-time web game",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "KallMeMoh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KallMeMoh/socketio-demo-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KallMeMoh/socketio-demo-game/issues"
+  },
+  "homepage": "https://github.com/KallMeMoh/socketio-demo-game#readme"
+}
